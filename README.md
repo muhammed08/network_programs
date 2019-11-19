@@ -1,7 +1,5 @@
 # network_programs
-Set of assignments done as part of network lab. Each assignment contain source code for both client side and server side. The client side program for each 
-
-assignment is marked as assign_<assignment_number>_Client.c
+Set of assignments done as part of network lab. Each assignment contain source code for both client side and server side. The client side program for each assignment is marked as assign_<assignment_number>_Client. Similarly server side program is also named.
 
 Assignment 1:
 
